@@ -1,4 +1,9 @@
 ## Changelogs
+### 18/05/2025
+- fixed remount (don't ask how because i don't know)
+- switch to jmalloc (thanks to @PowerX_NOT)
+- added MIUI Camera (night mode, portrait mode and maybe other things won't work)
+
 ### 17/05/2025
 - added applock
 - added smart pixels 
